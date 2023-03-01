@@ -5,5 +5,5 @@ int main()
 	cout << "Come up and C++ me some time."; 
 	cont << endl;
 	cont << "You will not regret it" << endl;
-	return 0;
+	return 0��
 }
