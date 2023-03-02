@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_Training",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Day1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day1-Debug-b12dbf3554999fe0710d.json",
+					"name" : "Day1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day2-Debug-1c7458ff6e90dca94e89.json",
+					"name" : "Day2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day3-Debug-c2ab4b0852198dc3cbce.json",
+					"name" : "Day3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day4-Debug-fcfa9e0bd806422ed911.json",
+					"name" : "Day4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day5-Debug-f6348e486467a75a6239.json",
+					"name" : "Day5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day6-Debug-1fd1722ca55ac017286f.json",
+					"name" : "Day6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/I really didn't study/C/C-Training/cmake-build-debug",
+		"source" : "E:/I really didn't study/C/C-Training"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

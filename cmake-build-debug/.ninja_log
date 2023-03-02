@@ -1,0 +1,13 @@
+# ninja log v5
+0	165	6994704320562811	build.ninja	f5dc6469a1a2c96e
+40	612	6994597638302750	CMakeFiles/C_Training.dir/C-Training/Day3.cpp.obj	27e8daa8cd5eeade
+10	580	6994597637951148	CMakeFiles/C_Training.dir/C-Training/Day1.cpp.obj	576aafac69de41ed
+3	583	6994597638009592	CMakeFiles/C_Training.dir/C-Training/C-Training.cpp.obj	5e28c4048c205f67
+17	591	6994597638085415	CMakeFiles/C_Training.dir/C-Training/Day4.cpp.obj	c8fdd3ddd7927742
+24	598	6994597638160570	CMakeFiles/C_Training.dir/C-Training/Day5.cpp.obj	1cabacb196ded503
+32	669	6994597638854566	CMakeFiles/C_Training.dir/C-Training/Day2.cpp.obj	bc8cdef789f9e213
+670	800	6994597640162282	C_Training.exe	55bf8ffd2f871137
+3	353	6994699033353032	CMakeFiles/Day5.dir/C-Training/Day5.cpp.obj	176080ade24dcfc
+353	510	6994699034877970	Day5.exe	b5fa6d1203784626
+0	376	6994599911363254	CMakeFiles/Day4.dir/C-Training/Day4.cpp.obj	811ffe2f598e9a21
+377	497	6994599912527237	Day4.exe	4888b9f6d3966cea
