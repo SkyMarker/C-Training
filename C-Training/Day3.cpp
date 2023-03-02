@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+
 
 // 变量声明
 extern int a, b;
@@ -8,6 +8,7 @@ extern float f;
 
 int main()
 {
+    using namespace std;
 	// 变量定义
 	int a, b;
 	int c;
