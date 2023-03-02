@@ -10,4 +10,4 @@ add_executable(C_Training
         C-Training/C-Training.cpp
         C-Training/Day1.cpp
         C-Training/Day2.cpp
-        C-Training/Day3.cpp)
+        C-Training/Day3.cpp C-Training/Day4.cpp)
