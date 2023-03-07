@@ -56,15 +56,8 @@ build CMakeFiles/Day1.dir/C-Training/Day1.cpp.obj: CXX_COMPILER__Day1_Debug E$:/
   OBJECT_DIR = CMakeFiles\Day1.dir
   OBJECT_FILE_DIR = CMakeFiles\Day1.dir\C-Training
 
-build CMakeFiles/Day1.dir/C-Training/Day7.cpp.obj: CXX_COMPILER__Day1_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day7.cpp || cmake_object_order_depends_target_Day1
-  DEP_FILE = CMakeFiles\Day1.dir\C-Training\Day7.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
-  INCLUDES = -I"E:/I really didn't study/C/C-Training/." -I"E:/I really didn't study/C/C-Training/C-Training"
-  OBJECT_DIR = CMakeFiles\Day1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Day1.dir\C-Training
-
-build CMakeFiles/Day1.dir/C-Training/Day8.cpp.obj: CXX_COMPILER__Day1_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day8.cpp || cmake_object_order_depends_target_Day1
-  DEP_FILE = CMakeFiles\Day1.dir\C-Training\Day8.cpp.obj.d
+build CMakeFiles/Day1.dir/C-Training/Day9.cpp.obj: CXX_COMPILER__Day1_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day9.cpp || cmake_object_order_depends_target_Day1
+  DEP_FILE = CMakeFiles\Day1.dir\C-Training\Day9.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always -std=gnu++14
   INCLUDES = -I"E:/I really didn't study/C/C-Training/." -I"E:/I really didn't study/C/C-Training/C-Training"
   OBJECT_DIR = CMakeFiles\Day1.dir
@@ -78,7 +71,7 @@ build CMakeFiles/Day1.dir/C-Training/Day8.cpp.obj: CXX_COMPILER__Day1_Debug E$:/
 #############################################
 # Link the executable Day1.exe
 
-build Day1.exe: CXX_EXECUTABLE_LINKER__Day1_Debug CMakeFiles/Day1.dir/C-Training/Day1.cpp.obj CMakeFiles/Day1.dir/C-Training/Day7.cpp.obj CMakeFiles/Day1.dir/C-Training/Day8.cpp.obj
+build Day1.exe: CXX_EXECUTABLE_LINKER__Day1_Debug CMakeFiles/Day1.dir/C-Training/Day1.cpp.obj CMakeFiles/Day1.dir/C-Training/Day9.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Day1.dir
@@ -258,6 +251,108 @@ build Day6.exe: CXX_EXECUTABLE_LINKER__Day6_Debug CMakeFiles/Day6.dir/C-Training
   TARGET_IMPLIB = libDay6.dll.a
   TARGET_PDB = Day6.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Day7
+
+
+#############################################
+# Order-only phony target for Day7
+
+build cmake_object_order_depends_target_Day7: phony || CMakeFiles/Day7.dir
+
+build CMakeFiles/Day7.dir/C-Training/Day7.cpp.obj: CXX_COMPILER__Day7_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day7.cpp || cmake_object_order_depends_target_Day7
+  DEP_FILE = CMakeFiles\Day7.dir\C-Training\Day7.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -I"E:/I really didn't study/C/C-Training/." -I"E:/I really didn't study/C/C-Training/C-Training"
+  OBJECT_DIR = CMakeFiles\Day7.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day7.dir\C-Training
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day7
+
+
+#############################################
+# Link the executable Day7.exe
+
+build Day7.exe: CXX_EXECUTABLE_LINKER__Day7_Debug CMakeFiles/Day7.dir/C-Training/Day7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day7.exe
+  TARGET_IMPLIB = libDay7.dll.a
+  TARGET_PDB = Day7.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day8
+
+
+#############################################
+# Order-only phony target for Day8
+
+build cmake_object_order_depends_target_Day8: phony || CMakeFiles/Day8.dir
+
+build CMakeFiles/Day8.dir/C-Training/Day8.cpp.obj: CXX_COMPILER__Day8_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day8.cpp || cmake_object_order_depends_target_Day8
+  DEP_FILE = CMakeFiles\Day8.dir\C-Training\Day8.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -I"E:/I really didn't study/C/C-Training/." -I"E:/I really didn't study/C/C-Training/C-Training"
+  OBJECT_DIR = CMakeFiles\Day8.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day8.dir\C-Training
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day8
+
+
+#############################################
+# Link the executable Day8.exe
+
+build Day8.exe: CXX_EXECUTABLE_LINKER__Day8_Debug CMakeFiles/Day8.dir/C-Training/Day8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day8.exe
+  TARGET_IMPLIB = libDay8.dll.a
+  TARGET_PDB = Day8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day9
+
+
+#############################################
+# Order-only phony target for Day9
+
+build cmake_object_order_depends_target_Day9: phony || CMakeFiles/Day9.dir
+
+build CMakeFiles/Day9.dir/C-Training/Day9.cpp.obj: CXX_COMPILER__Day9_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day9.cpp || cmake_object_order_depends_target_Day9
+  DEP_FILE = CMakeFiles\Day9.dir\C-Training\Day9.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  INCLUDES = -I"E:/I really didn't study/C/C-Training/." -I"E:/I really didn't study/C/C-Training/C-Training"
+  OBJECT_DIR = CMakeFiles\Day9.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day9.dir\C-Training
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day9
+
+
+#############################################
+# Link the executable Day9.exe
+
+build Day9.exe: CXX_EXECUTABLE_LINKER__Day9_Debug CMakeFiles/Day9.dir/C-Training/Day9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day9.exe
+  TARGET_IMPLIB = libDay9.dll.a
+  TARGET_PDB = Day9.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -296,6 +391,12 @@ build Day5: phony Day5.exe
 
 build Day6: phony Day6.exe
 
+build Day7: phony Day7.exe
+
+build Day8: phony Day8.exe
+
+build Day9: phony Day9.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -304,7 +405,7 @@ build Day6: phony Day6.exe
 #############################################
 # Folder: E:/I really didn't study/C/C-Training/cmake-build-debug
 
-build all: phony Day1.exe Day2.exe Day3.exe Day4.exe Day5.exe Day6.exe
+build all: phony Day1.exe Day2.exe Day3.exe Day4.exe Day5.exe Day6.exe Day7.exe Day8.exe Day9.exe
 
 # =============================================================================
 # Built-in targets
