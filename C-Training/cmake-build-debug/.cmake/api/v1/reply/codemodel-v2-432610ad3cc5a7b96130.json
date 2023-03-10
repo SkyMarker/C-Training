@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C_Training",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Day1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day1-Debug-eb9d85c0b52c32c980f7.json",
+					"name" : "Day1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day10-Debug-c9702761180a617dc50b.json",
+					"name" : "Day10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day11-Debug-64ca4202043f668c2b72.json",
+					"name" : "Day11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day12-Debug-29832b6c7aecd9ba5651.json",
+					"name" : "Day12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day13-Debug-5db0c73119970327311d.json",
+					"name" : "Day13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day2-Debug-fb04ee4e2c0d5b4fc853.json",
+					"name" : "Day2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day3-Debug-3d8c830d27590329131e.json",
+					"name" : "Day3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day4-Debug-36cd579aaccebc9c4f7b.json",
+					"name" : "Day4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day5-Debug-d077358b4cc0e7416267.json",
+					"name" : "Day5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day6-Debug-5065d46c835c02ed9b1e.json",
+					"name" : "Day6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day7-Debug-123f3632fbb8f019ae52.json",
+					"name" : "Day7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day8-Debug-79e67c80672030200dbd.json",
+					"name" : "Day8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Day9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Day9-Debug-822ab04baf1ca917595d.json",
+					"name" : "Day9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug",
+		"source" : "E:/I really didn't study/C/C-Training/C-Training"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
