@@ -11,5 +11,8 @@ E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Da
 E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Day11.dir
 E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Day12.dir
 E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Day13.dir
+E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Day14.dir
+E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Day15.dir
+E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/Day16.dir
 E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/edit_cache.dir
 E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug/CMakeFiles/rebuild_cache.dir

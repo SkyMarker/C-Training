@@ -469,6 +469,105 @@ build Day13.exe: CXX_EXECUTABLE_LINKER__Day13_Debug CMakeFiles/Day13.dir/Day13.c
   TARGET_IMPLIB = libDay13.dll.a
   TARGET_PDB = Day13.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Day14
+
+
+#############################################
+# Order-only phony target for Day14
+
+build cmake_object_order_depends_target_Day14: phony || CMakeFiles/Day14.dir
+
+build CMakeFiles/Day14.dir/Day14.cpp.obj: CXX_COMPILER__Day14_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day14.cpp || cmake_object_order_depends_target_Day14
+  DEP_FILE = CMakeFiles\Day14.dir\Day14.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day14.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day14.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day14
+
+
+#############################################
+# Link the executable Day14.exe
+
+build Day14.exe: CXX_EXECUTABLE_LINKER__Day14_Debug CMakeFiles/Day14.dir/Day14.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day14.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day14.exe
+  TARGET_IMPLIB = libDay14.dll.a
+  TARGET_PDB = Day14.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day15
+
+
+#############################################
+# Order-only phony target for Day15
+
+build cmake_object_order_depends_target_Day15: phony || CMakeFiles/Day15.dir
+
+build CMakeFiles/Day15.dir/Day15.cpp.obj: CXX_COMPILER__Day15_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day15.cpp || cmake_object_order_depends_target_Day15
+  DEP_FILE = CMakeFiles\Day15.dir\Day15.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day15.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day15.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day15
+
+
+#############################################
+# Link the executable Day15.exe
+
+build Day15.exe: CXX_EXECUTABLE_LINKER__Day15_Debug CMakeFiles/Day15.dir/Day15.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day15.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day15.exe
+  TARGET_IMPLIB = libDay15.dll.a
+  TARGET_PDB = Day15.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Day16
+
+
+#############################################
+# Order-only phony target for Day16
+
+build cmake_object_order_depends_target_Day16: phony || CMakeFiles/Day16.dir
+
+build CMakeFiles/Day16.dir/Day16.cpp.obj: CXX_COMPILER__Day16_Debug E$:/I$ really$ didn't$ study/C/C-Training/C-Training/Day16.cpp || cmake_object_order_depends_target_Day16
+  DEP_FILE = CMakeFiles\Day16.dir\Day16.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Day16.dir
+  OBJECT_FILE_DIR = CMakeFiles\Day16.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Day16
+
+
+#############################################
+# Link the executable Day16.exe
+
+build Day16.exe: CXX_EXECUTABLE_LINKER__Day16_Debug CMakeFiles/Day16.dir/Day16.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Day16.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Day16.exe
+  TARGET_IMPLIB = libDay16.dll.a
+  TARGET_PDB = Day16.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -505,6 +604,12 @@ build Day12: phony Day12.exe
 
 build Day13: phony Day13.exe
 
+build Day14: phony Day14.exe
+
+build Day15: phony Day15.exe
+
+build Day16: phony Day16.exe
+
 build Day2: phony Day2.exe
 
 build Day3: phony Day3.exe
@@ -529,7 +634,7 @@ build Day9: phony Day9.exe
 #############################################
 # Folder: E:/I really didn't study/C/C-Training/C-Training/cmake-build-debug
 
-build all: phony Day1.exe Day2.exe Day3.exe Day4.exe Day5.exe Day6.exe Day7.exe Day8.exe Day9.exe Day10.exe Day11.exe Day12.exe Day13.exe
+build all: phony Day1.exe Day2.exe Day3.exe Day4.exe Day5.exe Day6.exe Day7.exe Day8.exe Day9.exe Day10.exe Day11.exe Day12.exe Day13.exe Day14.exe Day15.exe Day16.exe
 
 # =============================================================================
 # Built-in targets
