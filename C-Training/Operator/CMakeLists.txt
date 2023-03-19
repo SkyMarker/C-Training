@@ -1,0 +1,6 @@
+add_executable(ArithmeticOperator ArithmeticOperator.cpp)
+add_executable(AssignmentOperator AssignmentOperator.cpp)
+add_executable(BitwiseOperator BitwiseOperator.cpp)
+add_executable(LogicalOperator LogicalOperator.cpp)
+add_executable(Priority Priority.cpp)
+add_executable(RelationalOperator RelationalOperator.cpp)

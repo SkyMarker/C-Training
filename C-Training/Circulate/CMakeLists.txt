@@ -1,0 +1,4 @@
+add_executable(CirculateTraining1 CirculateTraining1.cpp)
+add_executable(CirculateTraining2 CirculateTraining2.cpp)
+add_executable(CirculateTraining3 CirculateTraining3.cpp)
+add_executable(InfiniteLoop InfiniteLoop.cpp)
