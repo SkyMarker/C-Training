@@ -1,0 +1,2 @@
+add_executable(DefineNumbers DefineNumbers.cpp)
+add_executable(MathematicalOperations MathematicalOperations.cpp)
