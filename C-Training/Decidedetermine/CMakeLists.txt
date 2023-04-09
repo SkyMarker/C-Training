@@ -1,3 +1,0 @@
-add_executable(TwoNumbersContrast TwoNumbersContrast.cpp)
-add_executable(FourNumbersContrast FourNumbersContrast.cpp)
-add_executable(OperationalNesting OperationalNesting.cpp)

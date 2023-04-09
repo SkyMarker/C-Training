@@ -1,1 +1,6 @@
 add_executable(AccessArrayElements AccessArrayElements.cpp)
+add_executable(AccessTwo-dimensionalArrayElements AccessTwo-dimensionalArrayElements.cpp)
+add_executable(PointToArray PointToArray.cpp)
+add_executable(PassArrayToFunction PassArrayToFunction.cpp)
+add_executable(GenerateRandomNumbers GenerateRandomNumbers.cpp)
+add_executable(ReturnArrayFromFunction ReturnArrayFromFunction.cpp)
